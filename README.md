@@ -67,9 +67,13 @@ cd cdr500_tool
 python cdr500_tool.py
 ```
 
+---
+
 ## Credits & Attribution
 * Reverse Engineering & Research: placebomannen
 * Software Implementation: placebomannen
+
+---
 
 ## Disclaimer
 This utility is distributed for educational, research, and diagnostic preservation purposes only. Always create verified, untouched backups of your original EEPROM binary before flashing modified images back to hardware.
